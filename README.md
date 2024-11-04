@@ -1,4 +1,10 @@
-# OmniServices [![Build Status](https://travis-ci.org/omnifaces/omniservices.svg?branch=develop)](https://travis-ci.org/omnifaces/omniservices)
+# OmniServices 
+
+[![Build Status](https://travis-ci.org/omnifaces/omniservices.svg?branch=develop)](https://travis-ci.org/omnifaces/omniservices)
+[![Maven](https://maven-badges.herokuapp.com/maven-central/org.omnifaces/omniservices/badge.svg)](https://maven-badges.herokuapp.com/maven-central/org.omnifaces/omniservices)
+[![Javadoc](http://javadoc.io/badge/org.omnifaces/omniservices.svg)](http://javadoc.io/doc/org.omnifaces/omniservices) 
+[![License](http://img.shields.io/:license-apache-blue.svg)](http://www.apache.org/licenses/LICENSE-2.0.html)
+
 Utility library that provides EJB3-like features for CDI beans
 
 This project will attempt to implement CDI and Interceptor based versions of various EJB features and services. Currently the following features are implemented:
